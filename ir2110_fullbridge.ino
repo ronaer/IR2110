@@ -7,6 +7,9 @@
 
  Schematic:
  https://github.com/ronaer/IR2110/blob/main/IR2110_final.pdf
+
+ YouTube:
+ https://www.youtube.com/watch?v=Q-Ow-g5eOuQ&t=638s
                                              
  Modified from:____________________________
  Driver demo routine for IR2110 h-bridge.
