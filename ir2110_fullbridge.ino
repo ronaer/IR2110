@@ -5,7 +5,8 @@
  / /_/ / /  _ / / / _, _/ /_/ / / / / / ,<   
 /_____/_/  (_)_/ /_/ |_|\____/_/ /_/_/_/|_|  
 
- Schematic:https://github.com/ronaer/IR2110/blob/main/IR2110_final.pdf
+ Schematic:
+ https://github.com/ronaer/IR2110/blob/main/IR2110_final.pdf
                                              
  Modified from:____________________________
  Driver demo routine for IR2110 h-bridge.
